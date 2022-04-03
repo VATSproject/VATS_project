@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Terrium",
+    "icon": {
+      "value": "Blocks.FARMLAND"
+    },
+    "showSearch": false
+  }
+}

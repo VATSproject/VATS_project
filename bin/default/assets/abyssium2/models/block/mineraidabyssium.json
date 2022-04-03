@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssium2:blocks/mineraia",
+    "up": "abyssium2:blocks/mineraia",
+    "north": "abyssium2:blocks/mineraia",
+    "east": "abyssium2:blocks/mineraia",
+    "south": "abyssium2:blocks/mineraia",
+    "west": "abyssium2:blocks/mineraia",
+    "particle": "abyssium2:blocks/mineraia"
+  }
+}

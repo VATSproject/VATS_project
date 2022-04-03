@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssium2:blocks/craftperso",
+    "up": "abyssium2:blocks/craftpersodessus",
+    "north": "abyssium2:blocks/craftpersoav",
+    "east": "abyssium2:blocks/craftperso",
+    "south": "abyssium2:blocks/craftperso",
+    "west": "abyssium2:blocks/craftperso",
+    "particle": "abyssium2:blocks/craftperso"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssium2:block/bois_de_bananiers_slab"
+    },
+    "type=top": {
+      "model": "abyssium2:block/bois_de_bananiers_slab_top"
+    },
+    "type=double": {
+      "model": "abyssium2:block/bois_de_bananiers_slab_full"
+    }
+  }
+}

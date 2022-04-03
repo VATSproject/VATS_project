@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "abyssium2:blockdabyssium"
+    }
+  ],
+  "result": {
+    "item": "abyssium2:abyssium",
+    "count": 9
+  }
+}

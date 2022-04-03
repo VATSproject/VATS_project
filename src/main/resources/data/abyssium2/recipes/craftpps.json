@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "abyssium2:blocsolair"
+    },
+    {
+      "item": "abyssium2:cleamolette"
+    }
+  ],
+  "result": {
+    "item": "abyssium2:petitpanneausolair",
+    "count": 1
+  }
+}

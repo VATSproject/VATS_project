@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "CUSTOM:Blockdabyssium"
+      },
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "CUSTOM:Blockdabyssium"
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      },
+      {
+        "value": "CUSTOM:Blockdabyssium"
+      },
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "CUSTOM:Blockdabyssium"
+      },
+      {
+        "value": "Items.SCUTE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Abyssiumrenforce"
+    },
+    "name": "craftabyren",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "abyssium2:custom/huitre_stg2",
+  "textures": {
+    "all": "abyssium2:blocks/stg2",
+    "particle": "abyssium2:blocks/stg2",
+    "0": "abyssium2:blocks/stg2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "abyssium2:bois_de_bananiers_planks"
+    },
+    "1": {
+      "item": "abyssium2:bois_de_bananiers_planks"
+    },
+    "2": {
+      "item": "abyssium2:bois_de_bananiers_planks"
+    }
+  },
+  "result": {
+    "item": "abyssium2:bois_de_bananiers_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "abyssium2:bois_de_bananiers_planks"
+    },
+    "3": {
+      "item": "abyssium2:bois_de_bananiers_planks"
+    },
+    "4": {
+      "item": "abyssium2:bois_de_bananiers_planks"
+    },
+    "6": {
+      "item": "abyssium2:bois_de_bananiers_planks"
+    },
+    "7": {
+      "item": "abyssium2:bois_de_bananiers_planks"
+    },
+    "8": {
+      "item": "abyssium2:bois_de_bananiers_planks"
+    }
+  },
+  "result": {
+    "item": "abyssium2:bois_de_bananiers_stairs",
+    "count": 4
+  }
+}

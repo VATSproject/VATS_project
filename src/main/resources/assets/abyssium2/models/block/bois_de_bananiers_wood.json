@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "abyssium2:blocks/bois_de_bananiers_log_side",
+    "particle": "abyssium2:blocks/bois_de_bananiers_log_side"
+  }
+}

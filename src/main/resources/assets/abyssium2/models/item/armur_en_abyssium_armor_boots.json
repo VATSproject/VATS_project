@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "abyssium2:items/armur_en_abyssium_boots"
+  }
+}

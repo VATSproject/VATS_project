@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "abyssium2:abyssium"
+    },
+    "1": {
+      "item": "abyssium2:abyssium"
+    },
+    "2": {
+      "item": "abyssium2:abyssium"
+    },
+    "3": {
+      "item": "abyssium2:abyssium"
+    },
+    "5": {
+      "item": "abyssium2:abyssium"
+    }
+  },
+  "result": {
+    "item": "abyssium2:armur_en_abyssium_armor_helmet",
+    "count": 1
+  }
+}

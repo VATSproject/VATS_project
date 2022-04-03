@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "abyssium2:blocks/bois_de_bananiers_planks",
+    "particle": "abyssium2:blocks/bois_de_bananiers_planks"
+  }
+}

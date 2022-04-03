@@ -1,0 +1,8 @@
+{
+  "parent": "abyssium2:custom/recepteur",
+  "textures": {
+    "all": "abyssium2:blocks/recepteur",
+    "particle": "abyssium2:blocks/recepteur",
+    "0": "abyssium2:blocks/recepteur"
+  }
+}

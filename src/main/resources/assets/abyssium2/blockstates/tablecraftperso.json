@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssium2:block/tablecraftperso"
+    },
+    "facing=east": {
+      "model": "abyssium2:block/tablecraftperso",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssium2:block/tablecraftperso",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssium2:block/tablecraftperso",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "abyssium2:custom/grand_panneau_solaire",
+  "textures": {
+    "all": "abyssium2:blocks/grps",
+    "particle": "abyssium2:blocks/grps",
+    "0": "abyssium2:blocks/grps"
+  }
+}

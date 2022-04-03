@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Bois_de_bananiersLog"
+      },
+      {
+        "value": "CUSTOM:Bois_de_bananiersLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Bois_de_bananiersLog"
+      },
+      {
+        "value": "CUSTOM:Bois_de_bananiersLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bois_de_bananiersWood"
+    },
+    "name": "bois_de_bananiers_wood_recipe",
+    "namespace": "mod"
+  }
+}

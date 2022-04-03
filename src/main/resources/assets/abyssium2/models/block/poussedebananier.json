@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "abyssium2:blocks/poussedebananier",
+    "particle": "abyssium2:blocks/poussedebananier"
+  }
+}

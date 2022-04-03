@@ -1,0 +1,26 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "assiette_dhuitre",
+    "customModelName": "Normal",
+    "name": "Assiette d'huitres",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Abysium"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 14,
+    "saturation": 0.0,
+    "eatingSpeed": 100,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

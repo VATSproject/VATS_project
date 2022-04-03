@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssium2:block/adaptateur"
+    },
+    "facing=east": {
+      "model": "abyssium2:block/adaptateur",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssium2:block/adaptateur",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssium2:block/adaptateur",
+      "y": 270
+    }
+  }
+}

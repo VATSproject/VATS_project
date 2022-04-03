@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gray_wool"
+    },
+    "3": {
+      "item": "minecraft:gray_wool"
+    },
+    "4": {
+      "item": "minecraft:kelp"
+    },
+    "5": {
+      "item": "minecraft:kelp"
+    }
+  },
+  "result": {
+    "item": "abyssium2:combi_de_plongee_armor_boots",
+    "count": 1
+  }
+}

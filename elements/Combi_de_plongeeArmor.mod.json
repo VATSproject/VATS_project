@@ -1,0 +1,71 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "masque",
+    "enableBody": true,
+    "textureBody": "bouteille2",
+    "enableLeggings": false,
+    "textureLeggings": "combi_de_plongee_leggings",
+    "enableBoots": true,
+    "textureBoots": "palme",
+    "onHelmetTick": {
+      "name": "CombideplongeeArmorEvenementDeTickDuCasque"
+    },
+    "onBodyTick": {
+      "name": "CombideplongeeArmorEvenementDeTickDuCasque"
+    },
+    "onBootsTick": {
+      "name": "CombideplongeeArmorEvenementDeTickDesBottes"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Abysium"
+    },
+    "armorTextureFile": "combi_de_plongee",
+    "helmetName": "Masque",
+    "bodyName": "Bouteille",
+    "leggingsName": "Combi_de_plongee Leggings",
+    "bootsName": "palme",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Modelcustom_model",
+    "helmetModelPart": "head",
+    "helmetModelTexture": "masque.png",
+    "bodyModelName": "Modelcustom_model1",
+    "bodyModelPart": "plastron",
+    "armsModelPartL": "bb_main",
+    "armsModelPartR": "bb_main",
+    "bodyModelTexture": "bouteille1.png",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Modelcustom_model2",
+    "bootsModelPartL": "RightBoot",
+    "bootsModelPartR": "RightBoot",
+    "bootsModelTexture": "palme.png",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 15,
+    "damageValueHelmet": 2,
+    "damageValueBody": 5,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:BouteilledO2"
+      }
+    ]
+  }
+}

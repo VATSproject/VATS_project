@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Bois_de_bananiersWood"
+      },
+      {
+        "value": "CUSTOM:Bois_de_bananiersLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "bois_de_bananiers_log",
+    "namespace": "forge"
+  }
+}

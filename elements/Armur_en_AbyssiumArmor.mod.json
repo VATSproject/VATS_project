@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "armur_en_abyssium_head",
+    "enableBody": true,
+    "textureBody": "armur_en_abyssium_body",
+    "enableLeggings": true,
+    "textureLeggings": "armur_en_abyssium_leggings",
+    "enableBoots": true,
+    "textureBoots": "armur_en_abyssium_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Abysium"
+    },
+    "armorTextureFile": "armur_en_abyssium",
+    "helmetName": "Casque en abyssium",
+    "bodyName": "Plastron en abyssium",
+    "leggingsName": "Jambière en abyssium",
+    "bootsName": "Botte en abyssium",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 75,
+    "damageValueHelmet": 4,
+    "damageValueBody": 8,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 4,
+    "enchantability": 18,
+    "toughness": 4.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Abyssium"
+      }
+    ]
+  }
+}

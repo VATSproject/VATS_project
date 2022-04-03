@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 30,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "abyssium2:mineraidabyssium"
+  },
+  "result": {
+    "item": "abyssium2:abyssium"
+  }
+}

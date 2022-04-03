@@ -1,0 +1,9 @@
+{
+  "parent": "abyssium2:custom/tournesol_stg2",
+  "textures": {
+    "all": "abyssium2:blocks/tournesolstg2",
+    "particle": "abyssium2:blocks/tournesolstg2",
+    "0": "abyssium2:blocks/tournesolstg2",
+    "missing": "abyssium2:blocks/"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssium2:blocks/adaptateur3",
+    "up": "abyssium2:blocks/adapteur2",
+    "north": "abyssium2:blocks/adaptateur4",
+    "east": "abyssium2:blocks/adaptateur1",
+    "south": "abyssium2:blocks/adaptateur4",
+    "west": "abyssium2:blocks/adaptateur1",
+    "particle": "abyssium2:blocks/adaptateur3"
+  }
+}

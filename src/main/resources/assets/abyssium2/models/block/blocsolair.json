@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssium2:blocks/blocksolair",
+    "up": "abyssium2:blocks/blocksolair",
+    "north": "abyssium2:blocks/blocksolair",
+    "east": "abyssium2:blocks/blocksolair",
+    "south": "abyssium2:blocks/blocksolair",
+    "west": "abyssium2:blocks/blocksolair",
+    "particle": "abyssium2:blocks/blocksolair"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Abyssium"
+      },
+      {
+        "value": "CUSTOM:Abyssium"
+      },
+      {
+        "value": "CUSTOM:Abyssium"
+      },
+      {
+        "value": "CUSTOM:Abyssium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Abyssium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Armur_en_AbyssiumArmor.helmet"
+    },
+    "name": "armur_en_abyssium_armor_helmet_recipe",
+    "namespace": "mod"
+  }
+}

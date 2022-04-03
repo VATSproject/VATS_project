@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "abyssium2:blocks/bois_de_bananiers_planks"
+  }
+}

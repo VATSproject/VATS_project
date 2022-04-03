@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 30.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Mineraidabyssium"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Abyssium"
+    },
+    "name": "lingoa_craft",
+    "namespace": "mod"
+  }
+}

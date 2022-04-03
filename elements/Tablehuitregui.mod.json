@@ -1,0 +1,1030 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 199,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 13,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Desalgueur",
+          "color": {
+            "value": -8508928,
+            "falpha": 0.0
+          },
+          "name": "Desalgueur",
+          "x": 150,
+          "y": 26
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Ouvreur",
+          "color": {
+            "value": -8508928,
+            "falpha": 0.0
+          },
+          "name": "Ouvreur",
+          "x": 168,
+          "y": 80
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -30123,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 150,
+          "y": 44
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -30123,
+            "falpha": 0.0
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 186,
+          "y": 44
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -30123,
+            "falpha": 0.0
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 150,
+          "y": 98
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -30123,
+            "falpha": 0.0
+          },
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #3",
+          "x": 186,
+          "y": 98
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -30123,
+            "falpha": 0.0
+          },
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #4",
+          "x": 249,
+          "y": 44
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -30123,
+            "falpha": 0.0
+          },
+          "id": 5,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #5",
+          "x": 267,
+          "y": 44
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -30123,
+            "falpha": 0.0
+          },
+          "id": 6,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #6",
+          "x": 249,
+          "y": 98
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -30123,
+            "falpha": 0.0
+          },
+          "id": 7,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #7",
+          "x": 267,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 150,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 132,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 132,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 150,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 168,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 186,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 204,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 222,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 231,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 231,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 213,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 204,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 168,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 132,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 132,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 249,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 267,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 276,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 249,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 267,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 276,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 231,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 213,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 195,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 177,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 159,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 168,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 132,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 150,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 168,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 186,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 204,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 204,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 222,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 222,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 231,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 231,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 249,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 267,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui.png",
+          "use1Xscale": false,
+          "name": "fondgui.png",
+          "x": 276,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui2.png",
+          "use1Xscale": false,
+          "name": "fondgui2.png",
+          "x": 132,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui2.png",
+          "use1Xscale": false,
+          "name": "fondgui2.png",
+          "x": 150,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui2.png",
+          "use1Xscale": false,
+          "name": "fondgui2.png",
+          "x": 168,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui2.png",
+          "use1Xscale": false,
+          "name": "fondgui2.png",
+          "x": 186,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui2.png",
+          "use1Xscale": false,
+          "name": "fondgui2.png",
+          "x": 204,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui2.png",
+          "use1Xscale": false,
+          "name": "fondgui2.png",
+          "x": 222,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui2.png",
+          "use1Xscale": false,
+          "name": "fondgui2.png",
+          "x": 240,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui2.png",
+          "use1Xscale": false,
+          "name": "fondgui2.png",
+          "x": 258,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui2.png",
+          "use1Xscale": false,
+          "name": "fondgui2.png",
+          "x": 276,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui3.png",
+          "use1Xscale": false,
+          "name": "fondgui3.png",
+          "x": 114,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui3.png",
+          "use1Xscale": false,
+          "name": "fondgui3.png",
+          "x": 114,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui3.png",
+          "use1Xscale": false,
+          "name": "fondgui3.png",
+          "x": 114,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui3.png",
+          "use1Xscale": false,
+          "name": "fondgui3.png",
+          "x": 114,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui3.png",
+          "use1Xscale": false,
+          "name": "fondgui3.png",
+          "x": 114,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui3.png",
+          "use1Xscale": false,
+          "name": "fondgui3.png",
+          "x": 114,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui3.png",
+          "use1Xscale": false,
+          "name": "fondgui3.png",
+          "x": 114,
+          "y": 134
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui3.png",
+          "use1Xscale": false,
+          "name": "fondgui3.png",
+          "x": 114,
+          "y": 152
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui3.png",
+          "use1Xscale": false,
+          "name": "fondgui3.png",
+          "x": 114,
+          "y": 170
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui3.png",
+          "use1Xscale": false,
+          "name": "fondgui3.png",
+          "x": 114,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui3.png",
+          "use1Xscale": false,
+          "name": "fondgui3.png",
+          "x": 114,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui4.png",
+          "use1Xscale": false,
+          "name": "fondgui4.png",
+          "x": 285,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui4.png",
+          "use1Xscale": false,
+          "name": "fondgui4.png",
+          "x": 285,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui4.png",
+          "use1Xscale": false,
+          "name": "fondgui4.png",
+          "x": 285,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui4.png",
+          "use1Xscale": false,
+          "name": "fondgui4.png",
+          "x": 285,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui41.png",
+          "use1Xscale": false,
+          "name": "fondgui41.png",
+          "x": 285,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui4.png",
+          "use1Xscale": false,
+          "name": "fondgui4.png",
+          "x": 285,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui21.png",
+          "use1Xscale": false,
+          "name": "fondgui21.png",
+          "x": 294,
+          "y": 134
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui21.png",
+          "use1Xscale": false,
+          "name": "fondgui21.png",
+          "x": 294,
+          "y": 152
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui21.png",
+          "use1Xscale": false,
+          "name": "fondgui21.png",
+          "x": 294,
+          "y": 170
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui21.png",
+          "use1Xscale": false,
+          "name": "fondgui21.png",
+          "x": 294,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui21.png",
+          "use1Xscale": false,
+          "name": "fondgui21.png",
+          "x": 294,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui5.png",
+          "use1Xscale": false,
+          "name": "fondgui5.png",
+          "x": 132,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui5.png",
+          "use1Xscale": false,
+          "name": "fondgui5.png",
+          "x": 150,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui5.png",
+          "use1Xscale": false,
+          "name": "fondgui5.png",
+          "x": 168,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui5.png",
+          "use1Xscale": false,
+          "name": "fondgui5.png",
+          "x": 186,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui5.png",
+          "use1Xscale": false,
+          "name": "fondgui5.png",
+          "x": 204,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui5.png",
+          "use1Xscale": false,
+          "name": "fondgui5.png",
+          "x": 222,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui5.png",
+          "use1Xscale": false,
+          "name": "fondgui5.png",
+          "x": 240,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui5.png",
+          "use1Xscale": false,
+          "name": "fondgui5.png",
+          "x": 258,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fondgui5.png",
+          "use1Xscale": false,
+          "name": "fondgui5.png",
+          "x": 276,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fleche.png",
+          "use1Xscale": false,
+          "name": "fleche.png",
+          "x": 222,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fleche.png",
+          "use1Xscale": false,
+          "name": "fleche.png",
+          "x": 222,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alguegui.png",
+          "use1Xscale": false,
+          "name": "alguegui.png",
+          "x": 123,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "huitregui.png",
+          "use1Xscale": false,
+          "name": "huitregui.png",
+          "x": 125,
+          "y": 11
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "couteaugui.png",
+          "use1Xscale": false,
+          "name": "couteaugui.png",
+          "x": 222,
+          "y": 6
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssium2:blocks/blockaby",
+    "up": "abyssium2:blocks/blockaby",
+    "north": "abyssium2:blocks/blockaby",
+    "east": "abyssium2:blocks/blockaby",
+    "south": "abyssium2:blocks/blockaby",
+    "west": "abyssium2:blocks/blockaby",
+    "particle": "abyssium2:blocks/blockaby"
+  }
+}

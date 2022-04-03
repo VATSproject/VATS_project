@@ -1,0 +1,8 @@
+{
+  "parent": "abyssium2:custom/panneau_solair_2",
+  "textures": {
+    "all": "abyssium2:blocks/psm2",
+    "particle": "abyssium2:blocks/psm2",
+    "0": "abyssium2:blocks/psm2"
+  }
+}

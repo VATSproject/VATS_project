@@ -1,0 +1,8 @@
+{
+  "parent": "abyssium2:custom/petit_panneau_solaire",
+  "textures": {
+    "all": "abyssium2:blocks/pps",
+    "particle": "abyssium2:blocks/pps",
+    "0": "abyssium2:blocks/pps"
+  }
+}
