@@ -51,7 +51,7 @@ public class CrevetteentiteEntity extends PathfinderMob {
 	public static void addLivingEntityToBiomes(BiomeLoadingEvent event) {
 		if (SPAWN_BIOMES.contains(event.getName()))
 			event.getSpawns().getSpawner(MobCategory.WATER_CREATURE)
-					.add(new MobSpawnSettings.SpawnerData(Abyssium2ModEntities.CREVETTEENTITE, 35, 12, 13));
+					.add(new MobSpawnSettings.SpawnerData(Abyssium2ModEntities.CREVETTEENTITE, 30, 12, 13));
 	}
 
 	public CrevetteentiteEntity(FMLPlayMessages.SpawnEntity packet, Level world) {

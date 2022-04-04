@@ -17,6 +17,7 @@ import net.minecraft.world.item.BlockItem;
 import net.mcreator.abyssium.item.TranchedethoncuitItem;
 import net.mcreator.abyssium.item.TranchedethonItem;
 import net.mcreator.abyssium.item.Sousmarin2Item;
+import net.mcreator.abyssium.item.PointedeharponItem;
 import net.mcreator.abyssium.item.Outils_AbyssiumSwordItem;
 import net.mcreator.abyssium.item.Outils_AbyssiumShovelItem;
 import net.mcreator.abyssium.item.Outils_AbyssiumPickaxeItem;
@@ -27,6 +28,7 @@ import net.mcreator.abyssium.item.HuitregraineItem;
 import net.mcreator.abyssium.item.HuitrefermeeItem;
 import net.mcreator.abyssium.item.HuitreavecalgueItem;
 import net.mcreator.abyssium.item.HuileItem;
+import net.mcreator.abyssium.item.HarponItem;
 import net.mcreator.abyssium.item.GrainetournesolItem;
 import net.mcreator.abyssium.item.CrevetteItem;
 import net.mcreator.abyssium.item.CouteauItem;
@@ -127,6 +129,8 @@ public class Abyssium2ModItems {
 	public static final Item CACHALOT = register(
 			new SpawnEggItem(Abyssium2ModEntities.CACHALOT, -6710887, -10066330, new Item.Properties().tab(Abyssium2ModTabs.TAB_ABYSIUM))
 					.setRegistryName("cachalot_spawn_egg"));
+	public static final Item POINTEDEHARPON = register(new PointedeharponItem());
+	public static final Item HARPON = register(new HarponItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

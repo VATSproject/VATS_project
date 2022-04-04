@@ -2250,6 +2250,24 @@
       "locked_code": false,
       "registry_name": "cachalot",
       "path": "~/mob/cachalot"
+    },
+    {
+      "name": "Pointedeharpon",
+      "type": "item",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pointedeharpon",
+      "path": "~/harpon"
+    },
+    {
+      "name": "Harpon",
+      "type": "rangeditem",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harpon",
+      "path": "~/harpon"
     }
   ],
   "variable_elements": [
@@ -2319,6 +2337,7 @@
       "item.abyssium2.outils_abyssium_hoe": "Abyssium hoe",
       "item.abyssium2.sousmarin_2": "Submarin",
       "block.abyssium2.bois_de_bananiers_log": "Banana tree log",
+      "item.abyssium2.harpon": "Harpon",
       "block.abyssium2.grandpanneausolair": "Big solar panel",
       "block.abyssium2.tableahuitres": "Oyster table",
       "item.abyssium2.huitregraine": "Oyster algae",
@@ -2352,6 +2371,7 @@
       "item.abyssium2.outils_abyssium_sword": "Abyssium sword",
       "entity.abyssium2.crevetteentite": "Crevette",
       "block.abyssium2.bois_de_bananiers_stairs": "Banana tree stair",
+      "item.abyssium2.pointedeharpon": "Pointedeharpon",
       "block.abyssium2.envoyeur": "Sender",
       "block.abyssium2.petitpanneausolair_2": "Little solar panel",
       "itemGroup.tabterrium": "Terrium",
@@ -2482,6 +2502,10 @@
       },
       {
         "name": "terrium",
+        "children": []
+      },
+      {
+        "name": "harpon",
         "children": []
       }
     ]

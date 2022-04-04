@@ -9,6 +9,8 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.client.event.EntityRenderersEvent;
 import net.minecraftforge.api.distmarker.Dist;
 
+import net.minecraft.client.renderer.entity.ThrownItemRenderer;
+
 import net.mcreator.abyssium.client.renderer.ThonRenderer;
 import net.mcreator.abyssium.client.renderer.SousmarinRenderer;
 import net.mcreator.abyssium.client.renderer.CrevetteentiteRenderer;
@@ -22,5 +24,6 @@ public class Abyssium2ModEntityRenderers {
 		event.registerEntityRenderer(Abyssium2ModEntities.THON, ThonRenderer::new);
 		event.registerEntityRenderer(Abyssium2ModEntities.CREVETTEENTITE, CrevetteentiteRenderer::new);
 		event.registerEntityRenderer(Abyssium2ModEntities.CACHALOT, CachalotRenderer::new);
+		event.registerEntityRenderer(Abyssium2ModEntities.HARPON, ThrownItemRenderer::new);
 	}
 }

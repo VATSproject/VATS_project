@@ -111,7 +111,7 @@
     "rangedItemType": "Default item",
     "spawnThisMob": true,
     "doesDespawnWhenIdle": false,
-    "spawningProbability": 35,
+    "spawningProbability": 30,
     "mobSpawningType": "waterCreature",
     "minNumberOfMobsPerGroup": 12,
     "maxNumberOfMobsPerGroup": 13,

@@ -16,6 +16,7 @@ import net.minecraft.world.entity.Entity;
 
 import net.mcreator.abyssium.entity.ThonEntity;
 import net.mcreator.abyssium.entity.SousmarinEntity;
+import net.mcreator.abyssium.entity.HarponEntity;
 import net.mcreator.abyssium.entity.CrevetteentiteEntity;
 import net.mcreator.abyssium.entity.CachalotEntity;
 
@@ -37,6 +38,9 @@ public class Abyssium2ModEntities {
 	public static final EntityType<CachalotEntity> CACHALOT = register("cachalot",
 			EntityType.Builder.<CachalotEntity>of(CachalotEntity::new, MobCategory.WATER_CREATURE).setShouldReceiveVelocityUpdates(true)
 					.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CachalotEntity::new).sized(10f, 1f));
+	public static final EntityType<HarponEntity> HARPON = register("entitybulletharpon",
+			EntityType.Builder.<HarponEntity>of(HarponEntity::new, MobCategory.MISC).setCustomClientFactory(HarponEntity::new)
+					.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).sized(0.5f, 0.5f));
 
 	private static <T extends Entity> EntityType<T> register(String registryname, EntityType.Builder<T> entityTypeBuilder) {
 		EntityType<T> entityType = (EntityType<T>) entityTypeBuilder.build(registryname).setRegistryName(registryname);

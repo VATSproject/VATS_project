@@ -48,7 +48,7 @@ public class CachalotEntity extends PathfinderMob {
 	@SubscribeEvent
 	public static void addLivingEntityToBiomes(BiomeLoadingEvent event) {
 		if (SPAWN_BIOMES.contains(event.getName()))
-			event.getSpawns().getSpawner(MobCategory.WATER_CREATURE).add(new MobSpawnSettings.SpawnerData(Abyssium2ModEntities.CACHALOT, 7, 1, 3));
+			event.getSpawns().getSpawner(MobCategory.WATER_CREATURE).add(new MobSpawnSettings.SpawnerData(Abyssium2ModEntities.CACHALOT, 5, 1, 3));
 	}
 
 	public CachalotEntity(FMLPlayMessages.SpawnEntity packet, Level world) {
